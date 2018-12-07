@@ -1,2 +1,3 @@
 # MorrisGame-Android
-A attractive Android Project!....Morris Game!
+An attractive Android Project!....Morris Game!
+But it should be completed:)
